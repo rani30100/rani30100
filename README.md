@@ -1,7 +1,4 @@
-
-
-![Ichigo]((https://github.com/rani30100/rani30100/blob/main/Ichigo.gif))
-
+![Ichigo - gif ichigo](https://github.com/rani30100/rani30100/blob/main/Ichigo.gif)
 
 **DevDreamers**
 
