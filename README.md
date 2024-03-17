@@ -24,6 +24,5 @@
 
 ![DevDreamers GitHub stats](https://github-readme-stats.vercel.app/api?username=rani30100&show_icons=true&theme=radical)
 
-## <span style="color:brown;text-decoration:underline;">Découvrez mon GIF préféré :</span>
 
 ![Ichigo GIF](https://github.com/rani30100/rani30100/blob/main/Ichigo.gif)
