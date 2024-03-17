@@ -1,6 +1,6 @@
 
 
-![LUFFY]([[Uploading 4k-anime-498-x-278-gif-k8wqm7wd2t8polrq.gif](https://gifdb.com/images/high/4k-anime-498-x-278-gif-k8wqm7wd2t8polrq.webp))
+![LUFFY](https://gifdb.com/images/high/4k-anime-498-x-278-gif-k8wqm7wd2t8polrq.gif)
 
 **DevDreamers**
 
