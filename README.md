@@ -30,6 +30,6 @@ Je suis un jeune développeur passionné par l'art de coder. Actuellement, je me
 
 ## 🌐 Connectons-nous sur LinkedIn :
 
-N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou simplement échanger des idées sur le développement logiciel et la sécurité informatique.
+<a href="http://linkedin.com/in/rani-d-a35bb71b3" target="blank">Mon Linkedin</a> N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou simplement échanger des idées sur le développement logiciel et la sécurité informatique.
 
 ![Ichigo GIF](https://github.com/rani30100/rani30100/blob/main/Ichigo.gif)
