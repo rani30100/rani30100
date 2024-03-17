@@ -1,5 +1,9 @@
 # Bienvenue sur le profil de <span style="color:blue;text-decoration:underline;">**DevDreamers**</span> 🚀
 
+## À propos de moi
+
+Je suis un jeune développeur passionné par l'art de coder. Actuellement, je me concentre principalement sur le développement avec PHP, en particulier en utilisant le framework Symfony pour créer des applications web intuitive et évolutives.
+
 ## <span style="color:green;text-decoration:underline;">Languages et Outils</span>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
