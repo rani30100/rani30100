@@ -21,7 +21,6 @@ Je suis un jeune développeur passionné par l'art de coder. Actuellement, je me
 ## <span style="color:red;text-decoration:underline;">Apprentissage</span>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 ## <span style="color:purple;text-decoration:underline;">Statistiques GitHub</span>
